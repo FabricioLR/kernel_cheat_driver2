@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KMDF Driver2", "KMDF Driver2\KMDF Driver2.vcxproj", "{C409F7D2-208C-46B7-A856-525EA0C606E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KMDF Driver2Controller", "KMDF Driver2Controller\KMDF Driver2Controller.vcxproj", "{3844757C-3254-490D-8B81-E227240CCBB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|ARM64.Build.0 = Debug|ARM64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|x64.ActiveCfg = Debug|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|x64.Build.0 = Debug|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|x64.Deploy.0 = Debug|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|x86.ActiveCfg = Debug|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|x86.Build.0 = Debug|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Debug|x86.Deploy.0 = Debug|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|ARM64.ActiveCfg = Release|ARM64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|ARM64.Build.0 = Release|ARM64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|ARM64.Deploy.0 = Release|ARM64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|x64.ActiveCfg = Release|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|x64.Build.0 = Release|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|x64.Deploy.0 = Release|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|x86.ActiveCfg = Release|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|x86.Build.0 = Release|x64
+		{C409F7D2-208C-46B7-A856-525EA0C606E2}.Release|x86.Deploy.0 = Release|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Debug|ARM64.ActiveCfg = Debug|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Debug|ARM64.Build.0 = Debug|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Debug|x64.ActiveCfg = Debug|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Debug|x64.Build.0 = Debug|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Debug|x86.Build.0 = Debug|Win32
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Release|ARM64.ActiveCfg = Release|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Release|ARM64.Build.0 = Release|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Release|x64.ActiveCfg = Release|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Release|x64.Build.0 = Release|x64
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Release|x86.ActiveCfg = Release|Win32
+		{3844757C-3254-490D-8B81-E227240CCBB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39F1943-7ABF-44AE-B5A3-6ED8799D508A}
+	EndGlobalSection
+EndGlobal
